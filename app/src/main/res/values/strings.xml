@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">P2FireBase</string>
+    <string name="txtBtnSend">Enviar</string>
 </resources>
